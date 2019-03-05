@@ -17,7 +17,7 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 public class MainActivity extends AppCompatActivity {
-    private String TAG = "1111111111  ";
+    private String TAG = "111111112121111  ";
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
